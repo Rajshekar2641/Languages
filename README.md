@@ -32,8 +32,8 @@
 
 ## Links to my Profiles
 
-[Github](http://github.com/Rajshekar2641)
-[LinkedIn](https://www.linkedin.com/in/gande-rajashekar-26363919a/)
-[Facebook](https://www.facebook.com/rajashekar.dennis)
-[Bitbucket](https://bitbucket.org/%7Bfa589879-fa56-44cc-bd8b-49fed8013c44%7D/)
+- [Github](http://github.com/Rajshekar2641)
+- [LinkedIn](https://www.linkedin.com/in/gande-rajashekar-26363919a/)
+- [Facebook](https://www.facebook.com/rajashekar.dennis)
+- [Bitbucket](https://bitbucket.org/%7Bfa589879-fa56-44cc-bd8b-49fed8013c44%7D/)
 
